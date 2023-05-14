@@ -1,0 +1,59 @@
+*{
+	font-family: monetserrat;/* if you want the whole web page in the same font family*/
+}
+h1{
+	font-family: montserrat;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 30px;
+}
+hr{
+	border: 2px solid black;
+	width: 50%;
+}
+p{
+	font-family: montserrat;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 25px;
+}
+img 
+{
+	border-radius: 50px;
+	width: 30%;
+}
+.special_para
+{
+	font-size: 25px;
+}
+/*. is used for classes with same name and # is used for id's because id's are unique*/
+ul{
+	list-style: none;
+}
+li{
+	margin: 100px;
+	display: inline;
+	background-color:none;
+	color: white;
+}
+header{
+	background-color: black;
+	padding: 10px;
+}
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: montserrat;
+}
+li a:hover{
+	color: mediumaquamarine;
+	text-decoration: none/*underline*/;
+	font-family: montserrat;
+}
+footer{
+	background-color: black;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
